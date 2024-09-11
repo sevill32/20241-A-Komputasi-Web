@@ -1,0 +1,644 @@
+*INDEX.HTML*
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Artikel Guardian of The Galaxy</title>
+
+<!-- link css -->
+    <link rel="stylesheet" href="style.css">
+<!-- favicon -->
+    <link rel="icon" href="image.jpg" type="image/x-icon">
+</head>
+
+<body>
+    <div class="box">
+        <!-- navbar start -->
+        <div class="navbar">
+            <div class="navbar-nav">
+                <nav>
+                    <ul> 
+                        <li>Home</li>
+                        <li>About</li>
+                        <li>Contact</li>
+                    </ul>
+                </nav>
+            </div>
+        </div>
+        <!-- navbar end -->
+         <!-- hero start -->
+        <div class="gambar">
+            <img src="image.jpg" alt="#">
+        </div>
+        <!-- hero end -->
+         <!-- artikel start -->
+        <div class="artikel">
+            <div class="title">
+                <h2><u>NEWS</u></h2>
+            </div>
+            <div class="artikel1">
+                <div class="img">
+                    <img src="image1.jpg" alt="#">
+                </div>
+                <div class="text">
+                    <h2>Guardian of The Galaxy 1</h2>
+                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas tempora mollitia pariatur nam, provident maiores repellendus suscipit deleniti adipisci earum ea similique, sit nesciunt itaque at veritatis, quibusdam expedita iste.
+                    Voluptatem facere, facilis eius iure aperiam reprehenderit quasi nulla accusamus unde harum doloribus dignissimos, minima in ipsa quos officiis mollitia laboriosam? In alias tempora ut repellendus totam, quis natus maiores.
+                    Quos nesciunt tempora maxime provident asperiores eum tempore ab nulla repudiandae a aliquid dolorem, animi vero molestias fuga sed! Dolores voluptates doloribus hic, distinctio quidem sint reprehenderit iusto molestiae est.
+                    Cumque molestias, unde quis laboriosam nobis molestiae aperiam necessitatibus eaque, vero aspernatur voluptas? Nisi distinctio quis autem, quas facilis ullam, porro dicta et qui ducimus optio. Cupiditate ullam dolor nihil!
+                    Quia voluptatem provident doloremque quaerat in, consequuntur nesciunt atque aspernatur impedit ipsum, beatae deleniti maxime eos! Consequatur cupiditate id totam qui non voluptas asperiores, similique provident quidem nemo error placeat. Lorem ipsum, dolor sit amet consectetur adipisicing elit. Atque inventore in voluptate ipsa suscipit, quas quidem ex repellendus eum possimus amet nesciunt quaerat at sed laboriosam facere repudiandae perferendis ea. Lorem ipsum dolor sit amet consectetur adipisicing elit. Magni vero expedita architecto. Beatae similique saepe facere animi? Sequi, aliquam nemo. Soluta eligendi fugit. Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsum fuga modi quia earum repellendus ut quam rerum odio quod qui similique, iste.Ipsum fuga modi quia earum repellendus ut quam rerum odio quod qui similique, iste.odio quod qui similique, istela.</p>
+                </div>
+            </div>
+            <div class="tambahan">
+                <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quibusdam tenetur ea eum at voluptatum pariatur architecto qui aut voluptatibus? Rem earum ex pariatur, voluptatibus ad repellat libero reprehenderit similiquesajhdb labore!. Lorem ipsum dolor sit amet consectetur adipisicing elit. Assumenda sequi laborum vero aliquid corrupti, ut eos quae commodi tempore voluptatum soluta voluptatem inventore magnam natus smagnam hasadatus.</p>
+                <a href="berita1.html">Selengkapnya</a>
+            </div>
+            <div class="artikel2">
+                <div class="gambar2">
+                    <img src="image 2.jpg" alt="#">
+                </div>
+                <div class="text2">
+                    <h2>Guardian of The Galaxy 2</h2>
+                    <p>Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem ipsum dolor sit amet consectetur adipisicing elit. Vero, veritatis. Explicabo omnis, voluptates illum consequuntur sint magnam facere voluptatibus deleniti cum? Vitae perspiciatis soluta sit minus fuga sint quam voluptatibus. Lorem, ipsum dolor sit amet consectetur adipisicing elit. Molestiae porro explicabo ex labore quia atque, autem nam. Repellendus deleniti qui doloremque nostrum distinctio sapiente in repudiandae. Saepe repudiandae praesentium deserunt. Lorem ipsum dolor sit, amet consectetur adipisicing elit. Fugiat unde cumque sint adipisci repellat debitis explicabo vitae delectus? Iusto illum saepe unde nemo voluptatibus ad praesentium earum? Neque, dolores ad. Lorem, ipsum dolor sit amet consectetur adipisicing elit. Unde perferendis molestiae obcaecati, eveniet dolorum, aut sit quos numquam veniam iure ut est doloremque? Voluptates facere consectetur tenetur quam delectus sapiente.
+                    Quo consequatur labore assumenda deleniti earum quam, corrupti reiciendis! Quae, molestias aperiam fugit natus soluta exercitationem iusto ex placeat voluptas? Enim magnam a sit expedita, veniam nostrum earum ducimus laborum.
+                    Id eveniet. Quo consequatur labore assumenda deleniti earum quam. Lorem Ipsum is not simply random text. It has roots in a piece. random text. It has roots in a piecealaa.</p>
+                </div>
+            </div>
+            <div class="tambahan2">
+                <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quibusdam tenetur ea eum at voluptatum pariatur architecto qui aut voluptatibus? Rem earum ex pariatur, voluptatibus ad repellat libero reprehenderit similarassatian similiqueamalab labore!. Lorem ipsum dolor sit amet consectetur adipisicing elit. Assumenda sequi laborum vero aliquid corrupti, ut eos quae commodi tempore voluptatum soluta voluptatem inventore magnam natus.</p>
+                <a href="berita2.html">Selengkapnya</a>
+            </div>
+        </div>
+        <!-- artikel end -->
+        <!-- footer start -->
+        <footer>
+            <div class="footer">
+                <div class="f1">
+                    <div class="title">
+                        <h2>Follow us</h2>
+                    </div>
+                    <div class="sosmed"> <br>
+                        <ul>
+                        <li><a href="#">Google</a></li>
+                        <li><a href="#">Facebook</a></li>
+                        </ul>
+                    </div>
+                </div>
+                <div class="f2">
+                    <div class="title2">
+                        <h2>Campus</h2>
+                    </div>
+                    <div class="kampus"><br>
+                        <a href="https://upj.ac.id/">UPJ</a>
+                    </div>
+                </div>
+            </div>
+        </footer>
+        <!-- footer end -->
+        <!-- copyright start -->
+         <div class="copyright">
+            <p>&copy; 2021 svylaa</p>
+         </div>
+        <!-- copyright end -->
+    </div>
+</body>
+</html>
+
+*STYLE.CSS*
+
+*,
+html {
+    padding: 0;
+    margin: 0;    
+}
+
+
+.navbar {
+    background-color: #333;
+    display: flex;
+    flex-direction: row;
+    height: 65px;
+  }
+  
+.navbar-nav ul {
+    list-style: none;
+    display: flex;
+    margin-left: 70rem;
+    margin-top: 20px;
+  }
+  
+.navbar-nav li {
+    padding-right: 4rem;
+    color: white;
+    font-size: 1.3rem;
+  }
+
+.gambar img{
+  width: 100%;
+  height: 450px;
+}
+
+.title {
+  margin-left: 15px;
+  margin-top: 15px;
+  font-size: 20px;
+}
+
+.artikel1 {
+  display: flex;
+  flex-direction: row;
+  margin-top: 15px;
+  margin-left: 10px;
+}
+
+.artikel1 img {
+  width: 250px;
+  height: 200px;
+  margin-top: 15px;
+  margin-left: 5px;
+}
+
+.text {
+  margin-left: 10px;
+} 
+
+.text h2 {
+  margin-left: 8px;
+  font-size: 30px;
+}
+
+.text p {
+  width: 99%;
+  margin-top: 8px;
+  text-align: justify;
+  margin-left: 10px;
+}
+
+.tambahan{
+  margin-left: 15px;
+}
+
+.artikel2 {
+  display: flex;
+  flex-direction: row;
+  margin-top: 15px;
+  margin-left: 10px;
+}
+
+.artikel2 img {
+  width: 250px;
+  height: 200px;
+  margin-top: 15px;
+  margin-left: 5px;
+}
+
+.text2 {
+  margin-left: 10px;
+} 
+
+.text2 h2 {
+  margin-left: 8px;
+  font-size: 30px;
+}
+
+.text2 p {
+  width: 99%;
+  margin-top: 8px;
+  text-align: justify;
+  margin-left: 10px;
+}
+
+.tambahan2{
+  margin-left: 15px;
+}
+
+.footer {
+  background-color: #333;
+   display: flex;
+   flex-direction: row;
+   height: 120px;
+   color: white;
+   padding-top: 10px;
+   margin-top: 20px;
+}
+
+.f1 {
+ display: flex;
+ flex-direction: column;
+ margin-left: 10px;
+}
+
+.f1 h2 {
+ font-size: 18px;
+}
+
+.f1 a{
+ text-decoration: none;
+ color: white;
+ margin-left: 15px;
+}
+
+.f2 {
+ margin-left: 150px;
+}
+
+.f2 h2 {
+ font-size: 18px;
+ margin-top: 15px;
+}
+
+.f2 a {
+ margin-left: 1px; 
+ text-decoration: none;
+ color: white;
+}
+
+.copyright {
+  text-align: center;
+}
+
+.copyright p {
+  font-size: 15px;
+  font-weight: bold;
+}
+
+*BERITA1.HTML*
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Guardian of The Galaxy 1</title>
+
+<!-- link css -->
+    <link rel="stylesheet" href="berita1.css">
+<!-- favicon -->
+    <link rel="icon" href="image1.jpg" type="image/x-icon">
+</head>
+<body>
+    <div class="box">
+        <!-- navbar start -->
+        <div class="navbar">
+            <div class="navbar-nav">
+                <nav>
+                    <ul> 
+                        <li>Home</li>
+                        <li>About</li>
+                        <li>Contact</li>
+                    </ul>
+                </nav>
+            </div>
+        </div>
+        <!-- navbar end -->
+         <!-- artikel start -->
+        <div class="title">
+            <h2><u>Guardian of The Galaxy 1 !</u></h2>
+        </div>
+        <div class="gambar">
+            <img src="image1.jpg" alt="#">
+        </div>
+        <div class="text">
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas tempora mollitia pariatur nam, provident maiores repellendus suscipit deleniti adipisci earum ea similique, sit nesciunt itaque at veritatis, quibusdam expedita iste.
+                Voluptatem facere, facilis eius iure aperiam reprehenderit quasi nulla accusamus unde harum doloribus dignissimos, minima in ipsa quos officiis mollitia laboriosam? In alias tempora ut repellendus totam, quis natus maiores.
+                Quos nesciunt tempora maxime provident asperiores eum tempore ab nulla repudiandae a aliquid dolorem, animi vero molestias fuga sed! Dolores voluptates doloribus hic, distinctio quidem sint reprehenderit iusto molestiae est.
+                Cumque molestias, unde quis laboriosam nobis molestiae aperiam necessitatibus eaque, vero aspernatur voluptas? Nisi distinctio quis autem, quas facilis ullam, porro dicta et qui ducimus optio. Cupiditate ullam dolor nihil!
+                Quia voluptatem provident doloremque quaerat in, consequuntur nesciunt atque aspernatur impedit ipsum, beatae deleniti maxime eos! Consequatur cupiditate id totam qui non voluptas asperiores, similique provident quidem nemo error placeat. Lorem ipsum, dolor sit amet consectetur adipisicing elit. Atque inventore in voluptate ipsa suscipit, quas quidem ex repellendus eum possimus amet nesciunt quaerat at sed laboriosam facere repudiandae perferendis ea. Lorem ipsum dolor sit amet consectetur adipisicing elit. Magni vero expedita architecto. Beatae similique saepe facere animi? Sequi, aliquam nemo. Soluta eligendi fugit. Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsum fuga modi quia earum repellendus ut quam rerum odio quod qui similique, iste consequuntur omnis possimus perspiciatis natus vel quidem delectus. Lorem ipsum, dolor sit amet consectetur adipisicing elit. Nulla debitis impedit rem, suscipit aspernatur corrupti quibusdam quae. Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolore maiores quaerat quod aspernatur libero, asperiores vitae rerum veritatis, impedit in minima numquam eos nobis excepturi, tempore possimus. Impedit, quod! Iste?
+                Dignissimos ipsam rerum voluptatem inventore dicta odit non dolor consectetur minus? Dolores eius, culpa officia animi accusamus quia consectetur. Nulla nihil delectus eveniet similique sint et deleniti, odio ab nam!
+                Deleniti ipsam repellat veritatis cupiditate maxime odio consequatur quas dolores iure. Voluptates sit voluptatem dolorem sunt incidunt repellat quam dicta at atque, quaerat vitae inventore, amet quae ex dignissimos laborum!
+                Voluptates incidunt eligendi mollitia vel molestiae maxime, autem eos, doloremque tenetur vero exercitationem? Amet aliquid sequi, adipisci esse earum quasi dicta, facere labore praesentium similique, minus quos porro beatae laborum.
+                Sit veritatis aliquid quibusdam ullam? Eius sint cupiditate voluptas ullam facilis a saepe cum itaque veritatis voluptatibus, unde eaque quod quos exercitationem perspiciatis quasi reprehenderit, eveniet harum ipsa iure! Quisquam?</p>
+        </div>
+        <!-- artikel end -->
+         <!-- footer start -->
+        <footer>
+            <div class="footer">
+                <div class="f1">
+                    <div class="title">
+                        <h2>Follow us</h2>
+                    </div>
+                    <div class="sosmed"> <br>
+                        <ul>
+                        <li><a href="#">Google</a></li>
+                        <li><a href="#">Facebook</a></li>
+                        </ul>
+                    </div>
+                </div>
+                <div class="f2">
+                    <div class="title2">
+                        <h2>Campus</h2>
+                    </div>
+                    <div class="kampus"><br>
+                        <a href="https://upj.ac.id/">UPJ</a>
+                    </div>
+                </div>
+            </div>
+        </footer>
+        <!-- footer end -->
+        <!-- copyright start -->
+         <div class="copyright">
+            <p>&copy; 2021 svylaa</p>
+         </div>
+        <!-- copyright end -->
+    </div>
+</body>
+</html>
+
+*BERITA1.CSS*
+
+*{
+    padding: 0;
+    margin: 0;    
+}
+
+
+.navbar {
+    background-color: #333;
+    display: flex;
+    flex-direction: row;
+    height: 65px;
+  }
+
+.title {
+  margin-left: 1rem;
+  margin-top: 10px;
+}
+
+.title h1 {
+  color: white;
+}
+  
+.navbar-nav ul {
+    list-style: none;
+    display: flex;
+    margin-left: 62rem;
+    margin-top: 20px;
+  }
+  
+.navbar-nav li {
+    padding-right: 4rem;
+    color: white;
+    font-size: 1.2rem;
+    
+  }
+
+
+.gambar {
+    text-align: center;
+    margin-top: 20px;
+}
+
+.gambar img {
+    width: 500px;
+    height: 400px;
+}
+
+.text {
+    margin-left: 15px;
+    text-align: justify;
+    text-indent: 0.5in;
+    margin-top: 20px;
+}
+
+  .footer {
+    background-color: #333;
+     display: flex;
+     flex-direction: row;
+     height: 110px;
+     color: white;
+     padding-top: 10px;
+     margin-top: 20px;
+     
+ }
+ 
+ .f1 {
+   display: flex;
+   flex-direction: column;
+   margin-left: 10px;
+ }
+ 
+ .f1 h2 {
+   font-size: 16px;
+ }
+ 
+ .f1 a{
+   text-decoration: none;
+   color: white;
+   margin-left: 15px;
+   
+ }
+ 
+ .f2 {
+   margin-left: 150px;
+ }
+ 
+ .f2 h2 {
+   font-size: 16px;
+   margin-top: 10px;
+ }
+ 
+ .f2 a {
+   margin-left: 1px;
+   text-decoration: none;
+   color: white;
+ }
+ 
+ .copyright {
+   text-align: center;
+ }
+ 
+ .copyright p {
+   font-size: 15px;
+   font-weight: bold;
+ }
+
+*BERITA2.HTML*
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Guardian of The Galaxy 2</title>
+
+<!-- link css -->
+    <link rel="stylesheet" href="berita2.css">
+<!-- favicon -->
+    <link rel="icon" href="image 2.jpg" type="image/x-icon">
+</head>
+<body>
+    <div class="box">
+         <!-- navbar start -->
+         <div class="navbar">
+            <div class="navbar-nav">
+                <nav>
+                    <ul> 
+                        <li>Home</li>
+                        <li>About</li>
+                        <li>Contact</li>
+                    </ul>
+                </nav>
+            </div>
+        </div>
+        <!-- navbar end -->
+          <!-- artikel start -->
+        <div class="title">
+            <h2><u>Guardian of The Galaxy 2 !</u></h2>
+        </div>
+        <div class="gambar">
+            <img src="image 2.jpg" alt="#">
+        </div>
+        <div class="text">
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas tempora mollitia pariatur nam, provident maiores repellendus suscipit deleniti adipisci earum ea similique, sit nesciunt itaque at veritatis, quibusdam expedita iste.
+                Voluptatem facere, facilis eius iure aperiam reprehenderit quasi nulla accusamus unde harum doloribus dignissimos, minima in ipsa quos officiis mollitia laboriosam? In alias tempora ut repellendus totam, quis natus maiores.
+                Quos nesciunt tempora maxime provident asperiores eum tempore ab nulla repudiandae a aliquid dolorem, animi vero molestias fuga sed! Dolores voluptates doloribus hic, distinctio quidem sint reprehenderit iusto molestiae est.
+                Cumque molestias, unde quis laboriosam nobis molestiae aperiam necessitatibus eaque, vero aspernatur voluptas? Nisi distinctio quis autem, quas facilis ullam, porro dicta et qui ducimus optio. Cupiditate ullam dolor nihil!
+                Quia voluptatem provident doloremque quaerat in, consequuntur nesciunt atque aspernatur impedit ipsum, beatae deleniti maxime eos! Consequatur cupiditate id totam qui non voluptas asperiores, similique provident quidem nemo error placeat. Lorem ipsum, dolor sit amet consectetur adipisicing elit. Atque inventore in voluptate ipsa suscipit, quas quidem ex repellendus eum possimus amet nesciunt quaerat at sed laboriosam facere repudiandae perferendis ea. Lorem ipsum dolor sit amet consectetur adipisicing elit. Magni vero expedita architecto. Beatae similique saepe facere animi? Sequi, aliquam nemo. Soluta eligendi fugit. Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsum fuga modi quia earum repellendus ut quam rerum odio quod qui similique, iste consequuntur omnis possimus perspiciatis natus vel quidem delectus. Lorem ipsum, dolor sit amet consectetur adipisicing elit. Nulla debitis impedit rem, suscipit aspernatur corrupti quibusdam quae. Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolore maiores quaerat quod aspernatur libero, asperiores vitae rerum veritatis, impedit in minima numquam eos nobis excepturi, tempore possimus. Impedit, quod! Iste?
+                Dignissimos ipsam rerum voluptatem inventore dicta odit non dolor consectetur minus? Dolores eius, culpa officia animi accusamus quia consectetur. Nulla nihil delectus eveniet similique sint et deleniti, odio ab nam!
+                Deleniti ipsam repellat veritatis cupiditate maxime odio consequatur quas dolores iure. Voluptates sit voluptatem dolorem sunt incidunt repellat quam dicta at atque, quaerat vitae inventore, amet quae ex dignissimos laborum!
+                Voluptates incidunt eligendi mollitia vel molestiae maxime, autem eos, doloremque tenetur vero exercitationem? Amet aliquid sequi, adipisci esse earum quasi dicta, facere labore praesentium similique, minus quos porro beatae laborum.
+                Sit veritatis aliquid quibusdam ullam? Eius sint cupiditate voluptas ullam facilis a saepe cum itaque veritatis voluptatibus, unde eaque quod quos exercitationem perspiciatis quasi reprehenderit, eveniet harum ipsa iure! Quisquam?</p>
+        </div>
+        <!-- artikel end -->
+         <!-- footer start -->
+        <footer>
+            <div class="footer">
+                <div class="f1">
+                    <div class="title">
+                        <h2>Follow us</h2>
+                    </div>
+                    <div class="sosmed"> <br>
+                        <ul>
+                        <li><a href="#">Google</a></li>
+                        <li><a href="#">Facebook</a></li>
+                        </ul>
+                    </div>
+                </div>
+                <div class="f2">
+                    <div class="title2">
+                        <h2>Campus</h2>
+                    </div>
+                    <div class="kampus"><br>
+                        <a href="https://upj.ac.id/">UPJ</a>
+                    </div>
+                </div>
+            </div>
+        </footer>
+        <!-- footer end -->
+        <!-- copyright start -->
+         <div class="copyright">
+            <p>&copy; 2021 svylaa</p>
+         </div>
+        <!-- copyright end -->
+    </div>
+</body>
+</html>
+
+*BERITA2.CSS*
+
+*{
+    padding: 0;
+    margin: 0;    
+}
+
+
+.navbar {
+    background-color: #333;
+    display: flex;
+    flex-direction: row;
+    height: 65px;
+  }
+
+.title {
+  margin-left: 1rem;
+  margin-top: 10px;
+}
+
+.title h1 {
+  color: white;
+}
+  
+.navbar-nav ul {
+    list-style: none;
+    display: flex;
+    margin-left: 62rem;
+    margin-top: 20px;
+  }
+  
+.navbar-nav li {
+    padding-right: 4rem;
+    color: white;
+    font-size: 1.2rem;
+    
+}
+
+.gambar {
+    text-align: center;
+    margin-top: 20px;
+}
+
+.gambar img {
+    width: 500px;
+    height: 400px;
+}
+
+.text {
+    margin-left: 15px;
+    text-align: justify;
+    text-indent: 0.5in;
+    margin-top: 20px;
+}
+
+  .footer {
+    background-color: #333;
+     display: flex;
+     flex-direction: row;
+     height: 110px;
+     color: white;
+     padding-top: 10px;
+     margin-top: 20px;
+     
+ }
+ 
+ .f1 {
+   display: flex;
+   flex-direction: column;
+   margin-left: 1opx;
+ }
+ 
+ .f1 h2 {
+   font-size: 16px;
+ }
+ 
+ .f1 a{
+   text-decoration: none;
+   color: white;
+   margin-left: 15px;
+   
+ }
+ 
+ .f2 {
+   margin-left: 150px;
+ }
+ 
+ .f2 h2 {
+   font-size: 16px;
+   margin-top: 10px;
+ }
+ 
+ .f2 a {
+   margin-left: 1px;
+   text-decoration: none;
+   color: white;
+ }
+ 
+ .copyright {
+   text-align: center;
+ }
+ 
+ .copyright p {
+   font-size: 15px;
+   font-weight: bold;
+ }
