@@ -1,0 +1,108 @@
+*DASHBOARD.HTML*
+
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width.device, initial-scale=1.0">
+
+<!--link css-->
+<link rel="stylesheet" href="DASHBOARD 1.css">
+</head>
+
+<body>
+  <h3>DASHBOARD</h3>
+
+  <nav>
+    <ul class="navbar"> <!--tag navbar dengan nama class "navbar"-->
+
+<li><a href="file:///C:/Users/Shevila/OneDrive/DASHBOARD.html">HOME</a></li>
+<li><a href="file:///C:/Users/Shevila/OneDrive/KONTAK.html">KONTAK</a></li>
+<li><a href="file:///C:/Users/Shevila/OneDrive/BIODATA.html">BIODATA</a></li>
+  </ul>
+   </nav>
+
+</body>
+</html>
+
+*KONTAK.HTML*
+
+<!DOCTYPE html>
+<html>
+    <body>
+        <head>
+            <tittle><Kontak class="HTML"></Kontak></tittle>
+        </head>
+        <body>
+            <H3>KONTAK KAMI</H3>
+        <p><b>  MASUKAN:</b></p>
+
+        <form>
+            <label for="fname:">Nama:</label><br>
+            <input type="text" id="fname" name="fname"><br>
+            <br>
+            <label for="lname:">Email:</label><br>
+            <input type="text" id="lname" name="lname"><br>
+            </form>
+            <br> <br>
+        <p>JENIS KELAMIN:</p>
+            <input type="radio" id="vehicle1" name="vehicle1" value="Bike">
+            <label for="vehicle1">Pria</label><br>
+            <input type="radio" id="vehicle2" name="vehicle2" value="Car">
+            <label for="vehicle2">Wanita</label><br>
+            <br> <br>
+        <p>HOBBY:</p>
+            <input type="checkbox" id="vehicle1" name="vehicle1" value="Bike">
+            <label for="vehicle1"> Membaca Al Quran</label><br>
+            <input type="checkbox" id="vehicle2" name="vehicle2" value="Car">
+            <label for="vehicle1"> Push Rank ML</label><br>
+            <input type="checkbox" id="vehicle2" name="vehicle2" value="Car">
+            <label for="vehicle1"> Ngoding</label><br>
+            
+            <br> <br>
+            <button type="button">SUBMIT</button>
+            <button type="button">RESET</button>
+         </body>
+         </html>
+
+*BIODATA.HTML*
+
+<!DOCTYPE html>
+<html>
+    <head>
+        <tittle><Biodata class="HTML"></Biodata></tittle>
+    </head>
+    <body>
+        <h3>BIODATA NASABAH</h3>
+        <p><b>  No Rek  : 20230XXX</b></p>
+        <p><b>  Nama    : Shevila Damayanti</b></p>
+        <p><b>  Hobby   : Membaca Al Quran</b></p>
+    </body>
+</html>
+
+*DASHBOARD.CSS*
+
+*{
+    padding: 0;
+    margin: 0;
+}
+.navbar { /* tanda "." artinya dia call class pada tag html*/
+    background-color:darkgrey;
+    padding: 1em;
+    text-align:left;
+    padding-right: lpx;
+    margin-top: 25px;
+}
+
+.navbar ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+.navbar li {
+    display: inline-block;
+    margin-right: 50px;
+    color: white;
+}
+
