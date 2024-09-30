@@ -1,0 +1,195 @@
+//index.php
+
+<!doctype html>
+<html lang="id">
+  <head>
+    <!-- Tag meta yang diperlukan -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.2/dist/css/bootstrap.min.css">
+
+    <title>Artikel Guardian of The Galaxy</title>
+  </head>
+  <body>
+    <nav class="navbar navbar-expand-md bg-dark navbar-dark">
+      <a class="navbar-brand" href="#">LOGO</a>
+      <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#collapsibleNavbar">
+          <span class="navbar-toggler-icon"></span>
+      </button>
+      <div class="collapse navbar-collapse" id="collapsibleNavbar">
+          <ul class="navbar-nav ml-auto">
+              <li class="nav-item">
+                  <a class="nav-link" href="#">Home</a>
+              </li>             
+              <li class="nav-item">
+                  <a class="nav-link" href="#">About</a>
+              </li>
+              <li class="nav-item">
+                  <a class="nav-link" href="contact.php">Contact</a>
+              </li>
+          </ul>
+      </div>
+    </nav>
+      
+    <!-- Bagian Hero -->
+    <div class="jumbotron jumbotron-fluid bg-light">
+      <div class="container text-center">
+        <img src="image.jpg" class="img-fluid" alt="Gambar Hero" style="max-height: 500px; object-fit: cover; width: 100%;">
+      </div>
+    </div>
+    
+    <!-- Bagian Artikel -->
+    <div class="container">
+      <div class="row mb-5">
+        <div class="col text-left">
+          <h2><u>NEWS</u></h2>
+        </div>
+      </div>
+
+      <!-- Artikel 1: Guardian of The Galaxy 1 -->
+      <div class="row mb-5">
+        <div class="col-md-4">
+          <img src="image1.jpg" class="img-fluid" alt="#">
+        </div>
+        <div class="col-md-8">
+          <?php
+          // Tampilkan artikel pertama menggunakan PHP
+          echo "<h2>Guardian of The Galaxy 1</h2>";
+          echo "<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas tempora mollitia pariatur nam, provident maiores repellendus suscipit deleniti adipisci earum ea similique, sit nesciunt itaque at veritatis, quibusdam expedita iste. Voluptatem facere, facilis eius iure aperiam reprehenderit quasi nulla accusamus unde harum doloribus dignissimos, minima in ipsa quos officiis mollitia laboriosam? In alias tempora ut repellendus totam, quis natus maiores.</p>";
+          ?>
+          <a href="berita1.html" class="btn btn-primary">Selengkapnya</a>
+        </div>
+      </div>
+
+      <!-- Artikel Tambahan -->
+      <div class="row mb-5">
+        <div class="col">
+          <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quibusdam tenetur ea eum at voluptatum pariatur architecto qui aut voluptatibus? Rem earum ex pariatur, voluptatibus ad repellat libero reprehenderit similique labore!</p>
+        </div>
+      </div>
+
+      <!-- Artikel 2: Guardian of The Galaxy 2 -->
+      <div class="row mb-5">
+        <div class="col-md-4">
+          <img src="image 2.jpg" class="img-fluid" alt="#">
+        </div>
+        <div class="col-md-8">
+          <?php
+          // Tampilkan artikel kedua menggunakan PHP
+          echo "<h2>Guardian of The Galaxy 2</h2>";
+          echo "<p>Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem ipsum dolor sit amet consectetur adipisicing elit. Vero, veritatis.</p>";
+          ?>
+          <a href="berita2.html" class="btn btn-primary">Selengkapnya</a>
+        </div>
+      </div>
+
+      <!-- Artikel Tambahan 2 -->
+      <div class="row">
+        <div class="col">
+          <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quibusdam tenetur ea eum at voluptatum pariatur architecto qui aut voluptatibus? Rem earum ex pariatur, voluptatibus ad repellat libero reprehenderit similique labore!</p>
+        </div>
+      </div>
+    </div>
+
+    <!-- Bagian Footer -->
+    <footer class="bg-light py-4">
+      <div class="container">
+        <div class="row">
+          <div class="col-md-6">
+            <h5>Follow Us</h5>
+            <ul class="list-unstyled">
+              <li><a href="#">Google</a></li>
+              <li><a href="#">Facebook</a></li>
+            </ul>
+          </div>
+          <div class="col-md-6 text-md-left">
+            <h5>Campus</h5>
+            <a href="https://upj.ac.id/">UPJ</a>
+          </div>
+        </div>
+      </div>
+    </footer>
+
+    <div class="bg-dark text-white text-center py-3">
+      <p>&copy; 2021 svylaa</p>
+    </div>
+  </body>
+</html>
+
+//contact.php
+
+<!doctype html>
+<html lang="id">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.2/dist/css/bootstrap.min.css">
+    <title>Hubungi Kami</title>
+</head>
+<body>
+<div class="container mt-5">
+    <h2>Hubungi Kami</h2>
+    <form action="confirmation.php" method="POST">
+        <div class="form-group">
+            <label for="name">Nama:</label>
+            <input type="text" class="form-control" id="name" name="name" required>
+        </div>
+        <div class="form-group">
+            <label for="email">Email:</label>
+            <input type="email" class="form-control" id="email" name="email" required>
+        </div>
+        <p>Gender:</p>
+            <input type="radio" id="Pria" name="gender" value="Pria">
+            <label for="Pria">Pria</label><br>
+            <input type="radio" id="Wanita" name="gender" value="Wanita">
+            <label for="Wanita">Wanita</label><br>
+            <br>
+            <div class="form-group">
+            <label for="ttl">Tanggal Lahir:</label>
+            <input type="date" class="form-control" id="ttl" name="ttl" required>
+        </div>
+        <div class="form-group">
+            <label for="message">Pesan:</label>
+            <textarea class="form-control" id="message" name="message" rows="4" required></textarea>
+        </div>
+        <button type="submit" class="btn btn-primary">Submit</button>
+    </form>
+</div>
+</body>
+</html>
+
+//confirmation.php
+
+<!doctype html>
+<html lang="id">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.2/dist/css/bootstrap.min.css">
+    <title>Konfirmasi Kontak</title>
+</head>
+<body>
+<div class="container mt-5">
+    <h2>Terima Kasih!</h2>
+    <p>Berikut adalah informasi yang Anda kirim:</p>
+    <ul>
+        <li><strong>Nama:</strong> <?php echo htmlspecialchars($_POST['name']); ?></li>
+        <li><strong>Email:</strong> <?php echo htmlspecialchars($_POST['email']); ?></li>
+        <li><strong>Gender:</strong> <?php echo htmlspecialchars($_POST['gender']); ?></li>
+        <li><strong>Tanggal Lahir:</strong> <?php echo htmlspecialchars($_POST['ttl']); ?></li>
+    <!-- Menghitung umur berdasarkan tanggal lahir -->
+    <?php
+            $tanggal_lahir = htmlspecialchars($_POST['ttl']);
+            $lahir = new DateTime($tanggal_lahir);
+            $sekarang = new DateTime('2024-01-01'); // Tahun 2024
+            $umur = $sekarang->diff($lahir)->y; // Menghitung selisih tahun
+        ?>
+        <li><strong>Umur:</strong> <?php echo $umur; ?> tahun</li>
+        <li><strong>Pesan:</strong> <?php echo htmlspecialchars($_POST['message']); ?></li>
+    </ul>
+    <a href="contact.php" class="btn btn-primary">Kembali ke Kontak</a>
+</div>
+</body>
+</html>
