@@ -1,0 +1,289 @@
+//Web bootstrap.hml
+
+<!doctype html>
+<html lang="en">
+  <head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.2/dist/css/bootstrap.min.css" integrity="sha384-xOolHFLEh07PJGoPkLv1IbcEPTNtaed2xpHsD9ESMhqIYd0nLMwNLD69Npy4HI+N" crossorigin="anonymous">
+
+    <title>Artikel Guardian of The Galaxy</title>
+  </head>
+  <body>
+    <nav class="navbar navbar-expand-md bg-dark navbar-dark">
+      <a class="navbar-brand" href="#">LOGO</a>
+      <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#collapsibleNavbar">
+          <span class="navbar-toggler-icon"></span>
+      </button>
+      <div class="collapse navbar-collapse" id="collapsibleNavbar">
+          <ul class="navbar-nav ml-auto">
+              <li class="nav-item">
+                  <a class="nav-link" href="#">Home</a>
+              </li>
+              <li class="nav-item"></li>
+                  <a class="nav-link" href="#">About</a>
+              </li>
+              <li class="nav-item"></li>
+                  <a class="nav-link" href="#">Contact</a>
+              </li>
+          </ul>
+
+      </div>
+  </nav>
+      
+      <!-- Hero Start -->
+      <div class="jumbotron jumbotron-fluid bg-light">
+        <div class="container text-center">
+          <img src="image.jpg" class="img-fluid" alt="Gambar Hero" style="max-height: 500px; object-fit: cover; width: 100%;">
+        </div>
+      </div>
+      <!-- Hero End -->
+      
+      <!-- Artikel Start -->
+      <div class="container">
+        <div class="row mb-5">
+          <div class="col text-left">
+            <h2><u>NEWS</u></h2>
+          </div>
+        </div>
+        
+        <!-- Artikel 1 -->
+        <div class="row mb-5">
+          <div class="col-md-4">
+            <img src="image1.jpg" class="img-fluid" alt="#">
+          </div>
+          <div class="col-md-8">
+            <h2>Guardian of The Galaxy 1</h2>
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas tempora mollitia pariatur nam, provident maiores repellendus suscipit deleniti adipisci earum ea similique, sit nesciunt itaque at veritatis, quibusdam expedita iste. Voluptatem facere, facilis eius iure aperiam reprehenderit quasi nulla accusamus unde harum doloribus dignissimos, minima in ipsa quos officiis mollitia laboriosam? In alias tempora ut repellendus totam, quis natus maiores.</p>
+            <a href="berita1.html" class="btn btn-primary">Selengkapnya</a>
+          </div>
+        </div>
+        
+        <!-- Artikel Tambahan -->
+        <div class="row mb-5"> 
+          <div class="col">
+            <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quibusdam tenetur ea eum at voluptatum pariatur architecto qui aut voluptatibus? Rem earum ex pariatur, voluptatibus ad repellat libero reprehenderit similique labore!</p>
+          </div>
+        </div>
+        
+        <!-- Artikel 2 -->
+        <div class="row mb-5">
+          <div class="col-md-4">
+            <img src="image 2.jpg" class="img-fluid" alt="#">
+          </div>
+          <div class="col-md-8">
+            <h2>Guardian of The Galaxy 2</h2>
+            <p>Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem ipsum dolor sit amet consectetur adipisicing elit. Vero, veritatis.</p>
+            <a href="berita2.html" class="btn btn-primary">Selengkapnya</a>
+          </div>
+        </div>
+        
+        <!-- Artikel Tambahan 2 -->
+        <div class="row">
+          <div class="col">
+            <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quibusdam tenetur ea eum at voluptatum pariatur architecto qui aut voluptatibus? Rem earum ex pariatur, voluptatibus ad repellat libero reprehenderit similique labore!</p>
+          </div>
+        </div>
+      </div>
+      <!-- Artikel End -->
+      
+      <!-- Footer Start -->
+      <footer class="bg-light py-4">
+        <div class="container">
+          <div class="row">
+            <div class="col-md-6">
+              <h5>Follow Us</h5>
+              <ul class="list-unstyled">
+                <li><a href="#">Google</a></li>
+                <li><a href="#">Facebook</a></li>
+              </ul>
+            </div>
+            <div class="col-md-6 text-md-left">
+              <h5>Campus</h5>
+              <a href="https://upj.ac.id/">UPJ</a>
+            </div>
+          </div>
+        </div>
+      </footer>
+      <!-- Footer End -->
+      
+      <!-- Copyright Start -->
+      <div class="bg-dark text-white text-center py-3">
+        <p>&copy; 2021 svylaa</p>
+      </div>
+      <!-- Copyright End -->
+
+//berita1.html
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <title>Guardian of The Galaxy 1</title>
+
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.2/dist/css/bootstrap.min.css" integrity="sha384-xOolHFLEh07PJGoPkLv1IbcEPTNtaed2xpHsD9ESMhqIYd0nLMwNLD69Npy4HI+N" crossorigin="anonymous">
+
+    <!-- link favicon -->
+    <link rel="icon" href="image1.jpg" type="image/x-icon">
+</head>
+<body>
+    <!-- Navbar start -->
+    <nav class="navbar navbar-expand-md bg-dark navbar-dark">
+        <a class="navbar-brand" href="#">LOGO</a>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#collapsibleNavbar">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="collapsibleNavbar">
+            <ul class="navbar-nav ml-auto">
+                <li class="nav-item">
+                    <a class="nav-link" href="#">Home</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="#">About</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="#">Contact</a>
+                </li>
+            </ul>
+        </div>
+    </nav>
+    <!-- Navbar end -->
+
+    <!-- Artikel start -->
+    <div class="container mt-4">
+        <div class="text-center">
+            <h2 class="text-decoration-underline">Guardian of The Galaxy 1 !</h2>
+        </div>
+        <div class="text-center mt-4">
+            <img src="image1.jpg" alt="Guardian of The Galaxy 1" class="img-fluid">
+        </div>
+        <div class="mt-4">
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas tempora mollitia pariatur nam, provident maiores repellendus suscipit deleniti adipisci earum ea similique, sit nesciunt itaque at veritatis, quibusdam expedita iste.
+                Voluptatem facere, facilis eius iure aperiam reprehenderit quasi nulla accusamus unde harum doloribus dignissimos, minima in ipsa quos officiis mollitia laboriosam? In alias tempora ut repellendus totam, quis natus maiores.
+                Quos nesciunt tempora maxime provident asperiores eum tempore ab nulla repudiandae a aliquid dolorem, animi vero molestias fuga sed! Dolores voluptates doloribus hic, distinctio quidem sint reprehenderit iusto molestiae est.
+                Cumque molestias, unde quis laboriosam nobis molestiae aperiam necessitatibus eaque, vero aspernatur voluptas? Nisi distinctio quis autem, quas facilis ullam, porro dicta et qui ducimus optio. Cupiditate ullam dolor nihil!
+                Quia voluptatem provident doloremque quaerat in, consequuntur nesciunt atque aspernatur impedit ipsum, beatae deleniti maxime eos! Consequatur cupiditate id totam qui non voluptas asperiores, similique provident quidem nemo error placeat.
+            </p>
+        </div>
+    </div>
+    <!-- Artikel end -->
+
+    <!-- Footer start -->
+    <footer class="bg-light py-4">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-6">
+                    <h5>Follow Us</h5>
+                    <ul class="list-unstyled">
+                        <li><a href="#">Google</a></li>
+                        <li><a href="#">Facebook</a></li>
+                    </ul>
+                </div>
+                <div class="col-md-6 text-md-left">
+                    <h5>Campus</h5>
+                    <a href="https://upj.ac.id/">UPJ</a>
+                </div>
+            </div>
+        </div>
+    </footer>
+    <!-- Footer end -->
+    
+    <!-- Copyright start -->
+    <div class="bg-dark text-white text-center py-3">
+        <p>&copy; 2021 svylaa</p>
+    </div>
+    <!-- Copyright end -->
+</body>
+</html>
+
+//berita2.html
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <title>Guardian of The Galaxy 2</title>
+
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.2/dist/css/bootstrap.min.css" integrity="sha384-xOolHFLEh07PJGoPkLv1IbcEPTNtaed2xpHsD9ESMhqIYd0nLMwNLD69Npy4HI+N" crossorigin="anonymous">
+
+    <!-- link favicon -->
+    <link rel="icon" href="image 2.jpg" type="image/x-icon">
+</head>
+<body>
+    <!-- Header Start (Modifikasi Navbar seperti Web Bootstrap Form) -->
+    <nav class="navbar navbar-expand-md bg-dark navbar-dark">
+        <a class="navbar-brand" href="#">LOGO</a>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#collapsibleNavbar">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="collapsibleNavbar">
+            <ul class="navbar-nav ml-auto">
+                <li class="nav-item">
+                    <a class="nav-link" href="#">Home</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="#">About</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="#">Contact</a>
+                </li>
+            </ul>
+        </div>
+    </nav>
+    <!-- Header End -->
+
+    <!-- Artikel start -->
+    <div class="container mt-5">
+        <div class="text-center">
+            <h2 class="text-decoration-underline">Guardian of The Galaxy 2 !</h2>
+        </div>
+        <div class="text-center mt-4">
+            <img src="image 2.jpg" alt="Guardian of The Galaxy 2" class="img-fluid">
+        </div>
+        <div class="mt-4">
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas tempora mollitia pariatur nam, provident maiores repellendus suscipit deleniti adipisci earum ea similique, sit nesciunt itaque at veritatis, quibusdam expedita iste.
+                Voluptatem facere, facilis eius iure aperiam reprehenderit quasi nulla accusamus unde harum doloribus dignissimos, minima in ipsa quos officiis mollitia laboriosam? In alias tempora ut repellendus totam, quis natus maiores.
+                Quos nesciunt tempora maxime provident asperiores eum tempore ab nulla repudiandae a aliquid dolorem, animi vero molestias fuga sed! Dolores voluptates doloribus hic, distinctio quidem sint reprehenderit iusto molestiae est.
+                Cumque molestias, unde quis laboriosam nobis molestiae aperiam necessitatibus eaque, vero aspernatur voluptas? Nisi distinctio quis autem, quas facilis ullam, porro dicta et qui ducimus optio. Cupiditate ullam dolor nihil!
+                Quia voluptatem provident doloremque quaerat in, consequuntur nesciunt atque aspernatur impedit ipsum, beatae deleniti maxime eos! Consequatur cupiditate id totam qui non voluptas asperiores, similique provident quidem nemo error placeat.
+            </p>
+        </div>
+    </div>
+    <!-- Artikel End -->
+
+    <!-- Footer Start (Modifikasi Footer seperti Web Bootstrap Form) -->
+    <footer class="bg-light py-4">
+        <div class="container">
+          <div class="row">
+            <div class="col-md-6">
+              <h5>Follow Us</h5>
+              <ul class="list-unstyled">
+                <li><a href="#">Google</a></li>
+                <li><a href="#">Facebook</a></li>
+              </ul>
+            </div>
+            <div class="col-md-6 text-md-left">
+              <h5>Campus</h5>
+              <a href="https://upj.ac.id/">UPJ</a>
+            </div>
+          </div>
+        </div>
+    </footer>
+    <!-- Footer End -->
+
+    <!-- Copyright Start -->
+    <div class="bg-dark text-white text-center py-3">
+        <p>&copy; 2021 svylaa</p>
+    </div>
+    <!-- Copyright End -->
+</body>
+</html>
